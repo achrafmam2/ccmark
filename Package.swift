@@ -1,7 +1,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "Ccmark",
+  name: "ccmark",
   pkgConfig: "libcmark",
   providers: [
     .Brew("commonmark")
