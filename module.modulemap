@@ -1,4 +1,4 @@
-module Ccmark [system] {
+module ccmark [system] {
   header "/usr/local/include/cmark.h"
   link "libcmark"
   export *
